@@ -1,7 +1,7 @@
 # Task-ScheduleR-
 To perform automated tasks in R to run R scripts
 
-This task scheduleR example I have created to pull COVID deaths and confirmed cases in the USA to run daily and store directly into my postgres Heroku database.
+In this task scheduleR example, I have created a task to pull daily feeds from COVID deaths and confirmed cases in the USA (using https://github.com/CSSEGISandData/COVID-19) and store directly into my postgres Heroku database.
 
 The first script (Covid_pull) pulls the covid data from the John hopkins github available data (which is updated daily). 
 
