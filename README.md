@@ -7,6 +7,6 @@ The first script (Covid_pull) pulls the covid data from the John hopkins github 
 
 The second script (taskscheduleR) sets a daily scheduled task at 8:30am to run my Covid_pull.
 
-After these two have been created you simply go into your windows Task Scheduler, find your refresh_table task (that you had created in the taskscheduleR) and set the security option to "Run whether the user is logged in or not".  This will run now when you are not logged into your computer.  
+After these two have been created, you simply go into your windows Task Scheduler, find your refresh_table task (that you had created in the taskscheduleR) and set the security option to "Run whether the user is logged in or not".  This will run now when you are not logged into your computer.  
 
 :)
